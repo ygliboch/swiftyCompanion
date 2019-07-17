@@ -52,7 +52,7 @@ class SecondViewController: UIViewController, UIScrollViewDelegate, UITableViewD
             usrCoolition.image = UIImage(imageLiteralResourceName: "hive_background")
         case "The Empire":
             usrCoolition.image = UIImage(imageLiteralResourceName: "empire_background")
-        case "the Union":
+        case "The Union":
             usrCoolition.image = UIImage(imageLiteralResourceName: "union_background")
         default:
             break
