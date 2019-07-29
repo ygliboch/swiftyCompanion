@@ -7,7 +7,7 @@ How to start:
 git clone https://github.com/ygliboch/swiftyCompanion.git swiftyCompanion && cd swiftyCompanion && open swiftyCompanion.xcworkspace
 ```
 
-![gif](https://github.com/ygliboch/swiftyCompanion/blob/master/screenshots/ezgif.com-video-to-gif%20(2).gif)
+![gif](https://github.com/ygliboch/swiftyCompanion/blob/master/screenshots/ezgif.com-video-to-gif%20(2).gif width="30%")
 
 <p align="center">
   <b>Landscape</b>
