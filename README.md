@@ -16,6 +16,6 @@ git clone https://github.com/ygliboch/swiftyCompanion.git swiftyCompanion && cd 
 </p>
 
 <div align="center">
-  <img src="https://github.com/ygliboch/swiftyCompanion/blob/master/screenshots/Screen%20Shot%202019-07-15%20at%206.45.27%20PM.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/ygliboch/swiftyCompanion/master/screenshots/Screen%20Shot%202019-07-15%20at%206.45.07%20PM.png" width="30%" />
+  <img src="https://github.com/ygliboch/swiftyCompanion/blob/master/screenshots/Screen%20Shot%202019-07-15%20at%206.45.27%20PM.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/ygliboch/swiftyCompanion/master/screenshots/Screen%20Shot%202019-07-15%20at%206.45.07%20PM.png" width="50%" />
 </div>
